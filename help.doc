@@ -1,0 +1,7 @@
+Usage:
+    star
+        print help
+    star output.tar input1 input2 input3...
+        creates archive
+    star input.tar
+        extract archive
