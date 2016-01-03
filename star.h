@@ -105,7 +105,7 @@ struct header_ustar
 } __attribute__((packed));
 
 /**
- * \breif reads the file from tar archive and write it  
+ * \brief reads the file from tar archive and write it  
  */
 void regular_untar (FILE* tarf, struct header_ustar* h);
 /*!
