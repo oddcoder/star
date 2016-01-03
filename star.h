@@ -1,5 +1,5 @@
-#ifndef __TAR_H__
-#define __TAR_H__
+#ifndef STAR_H
+#define STAR_H
 #include <sys/stat.h>
 #define HELP_MAX 100000
 #define TRUE 1
